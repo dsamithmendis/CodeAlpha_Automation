@@ -10,5 +10,5 @@ This project automates three common tasks using Python:
 1. Make sure Python 3 is installed.
 2. Double-click `run_task.bat` (Windows) **or** run from terminal:
    ```bash
-   python run_task.py
+   python task.py
    ```
